@@ -1,0 +1,1 @@
+This project provides a comprehensive exploration of the Titanic dataset, demonstrating essential data cleaning and exploratory data analysis techniques. By understanding the data's characteristics and identifying potential patterns, we can gain valuable insights into the factors influencing survival rates during the Titanic disaster.
